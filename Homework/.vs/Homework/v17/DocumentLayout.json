@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pon10\\OneDrive\\\uBB38\uC11C\\data-structure-lab-2025\\Homework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6CE700-2634-4AC3-BCF2-840F769C3FD2}|ThirdHomework\\ThirdHomework.vcxproj|C:\\Users\\pon10\\OneDrive\\\uBB38\uC11C\\data-structure-lab-2025\\Homework\\ThirdHomework\\sparsepoly.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E6CE700-2634-4AC3-BCF2-840F769C3FD2}|ThirdHomework\\ThirdHomework.vcxproj|solutionrelative:ThirdHomework\\sparsepoly.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6CE700-2634-4AC3-BCF2-840F769C3FD2}|ThirdHomework\\ThirdHomework.vcxproj|C:\\Users\\pon10\\OneDrive\\\uBB38\uC11C\\data-structure-lab-2025\\Homework\\ThirdHomework\\sparsepoly.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E6CE700-2634-4AC3-BCF2-840F769C3FD2}|ThirdHomework\\ThirdHomework.vcxproj|solutionrelative:ThirdHomework\\sparsepoly.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sparsepoly.hpp",
+              "DocumentMoniker": "C:\\Users\\pon10\\OneDrive\\\uBB38\uC11C\\data-structure-lab-2025\\Homework\\ThirdHomework\\sparsepoly.hpp",
+              "RelativeDocumentMoniker": "ThirdHomework\\sparsepoly.hpp",
+              "ToolTip": "C:\\Users\\pon10\\OneDrive\\\uBB38\uC11C\\data-structure-lab-2025\\Homework\\ThirdHomework\\sparsepoly.hpp",
+              "RelativeToolTip": "ThirdHomework\\sparsepoly.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-13T11:10:04.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sparsepoly.cpp",
+              "DocumentMoniker": "C:\\Users\\pon10\\OneDrive\\\uBB38\uC11C\\data-structure-lab-2025\\Homework\\ThirdHomework\\sparsepoly.cpp",
+              "RelativeDocumentMoniker": "ThirdHomework\\sparsepoly.cpp",
+              "ToolTip": "C:\\Users\\pon10\\OneDrive\\\uBB38\uC11C\\data-structure-lab-2025\\Homework\\ThirdHomework\\sparsepoly.cpp",
+              "RelativeToolTip": "ThirdHomework\\sparsepoly.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-13T11:02:41.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
